@@ -1,4 +1,10 @@
-# GitHub Fundamentals
+# My 1Z0-829 Exam Preparation 
+
+#### Book
+OCP Oracle Certified Professional Java SE 17 Developer (Exam 1Z0-829) Programmer's Guide
+Khalid A. Mughal, Vasily A. Strelnikov
+
+#### Chapters
 
 #### Objectives
 
